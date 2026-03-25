@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: jj-learning-bot
+    runtime: python
+    buildCommand: ""
+    startCommand: gunicorn bot:app
+    plan: free
