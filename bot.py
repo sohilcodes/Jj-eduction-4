@@ -114,7 +114,7 @@ support = """📩 Support
 
 For learning clarification contact:
 
-@your_support_username
+@jjtrader_00
 
 Only educational discussion allowed.
 """
